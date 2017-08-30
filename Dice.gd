@@ -2,9 +2,6 @@
 
 extends Node
 
-var numberOfDice
-var sidesOfDice
-
 func _ready():
 	pass
 
