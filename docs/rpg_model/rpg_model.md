@@ -15,21 +15,19 @@ Serves as the base measurement for the player's endurance, vitality, and ability
 #### Strength (`strength.md`)
 Serves as the base measurement for the player's attack abilities, their inventory capacity, and stamina.
 
-#### Intelligence
+#### Intelligence (`intelligence.md`)
 Serves as the base measurement for the player's intelligence, including the ability to craft, hack, use secondary abilities, manipulate the world, and other characters (persuasion). It also affects trade.
 
-#### Perception
+#### Perception (`perception.md`)
 Serves as the base measurement for the player's environmental awareness, and sense of the world through their senses.
 
-#### Providence
+#### Providence (`providence.md`)
 Serves as the base measurement for luck, and critical hits or critical success rates on other factors in the world.
-
-The only exception to the assignment of Primary Statistics is through Creation Arcs, which represent additional points assigned to Primary Statistics added at random, through informed player decisions.
 
 ### Derived Statistics
 Derived Statistics are the basis for all player stats in the game world. The initial values are generated based off the configuration set forth in Primary Statistics, and some of these will increase, as the player progresses (native progression) ultimately affecting any applicable skills that derive from these per level (and through other means, to be explained later).
 
-#### Hit Points|Health
+#### Hit Points
 Measure of amount of damage the player can take. Once this hits 0, the player is dead. This Derived Statistic increases per level.
 
 #### Psi Points
@@ -71,8 +69,8 @@ Skills are the main editable tree of the player character. When a Level is gaine
 ### Progression Statistics
 Progression Statistics are measurements from the game world, and do not necessarily factor into the above.
 
-##### Potential
+#### Potential
 A numeric scale of your actual power in the game world. This is adjusted by all statistics, weapons, equipment, and so forth.
 
-##### Experience Points
+#### Experience Points
 Measurement of progress in the game world
