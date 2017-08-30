@@ -14,4 +14,4 @@ If a file still looks like a default gdscript file/has a lot of TODOs, its very 
 I'll definitely look at Pull Requests that come my way, but I can't guarantee an immediate review or even approval.
 
 ## LICENSE
-Licensed under the MIT License. SEE `LICENSE`.
+Licensed under the MIT License. See `LICENSE`.
