@@ -27,7 +27,7 @@ Serves as the base measurement for luck, and critical hits or critical success r
 ### Derived Statistics
 Derived Statistics are the basis for all player stats in the game world. The initial values are generated based off the configuration set forth in Primary Statistics, and some of these will increase, as the player progresses (native progression) ultimately affecting any applicable skills that derive from these per level (and through other means, to be explained later).
 
-#### Hit Points
+#### Hit Points (`hit_points.md`)
 Measure of amount of damage the player can take. Once this hits 0, the player is dead. This Derived Statistic increases per level.
 
 #### Psi Points
