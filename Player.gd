@@ -1,18 +1,16 @@
 
-extends "res://scripts/Character.gd"
-
-# member variables here, example:
-# var a=2
-# var b="textvar"
+extends "res://Character.gd"
 
 func _ready():
-	# Called every time the node is added to the scene.
-	# Initialization here
 	pass
 
 static func CreateNewPlayer(PlayerName, Const, Str, Int, Per, Luck):
 	"""
-	Create a new player instance
+    TODO
+
+	Create a new player instance. Keep in mind that you will need to instance
+    the Player instance from whatever controller you use to handle the 
+    player. Example code for that is forthcoming.
 	"""
 	SetPlayerName(PlayerName)
 	SetPrimaryStats(Const, Str, Int, Per, Luck)
@@ -23,5 +21,7 @@ static func CreateNewPlayer(PlayerName, Const, Str, Int, Per, Luck):
 
 func returnPlayerName():
 	"""
+    TODO
+
 	Returns Player Name
 	"""

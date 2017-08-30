@@ -1,8 +1,8 @@
 # Character Class
 
 extends Node
-var AttributesObj = preload("res://scripts/Attributes.gd")
-var InvObj = preload("res://scripts/Inventory.gd")
+var AttributesObj = preload("res://Attributes.gd")
+var InvObj = preload("res://Inventory.gd")
 var Attributes = AttributesObj.new()
 var Inventory = InvObj.new()
 
@@ -28,7 +28,8 @@ func _ready():
 
 func SetGameStartAttributes():
 	"""
-	Set up initial attributes for the character (stubbed function)
+	Set up initial attributes for the character (stubbed function). You could
+    easily also do this in any Inherited or Reference class.
 	"""
 	# TODO
 	pass
@@ -61,6 +62,9 @@ func SetPrimaryStats(Const, Str, Int, Per, Prov):
 	Set the player primary stats. All primary stats must be defined as
 	non negative integers, or else the method will return false. They can be
 	defined as zero.
+
+    For Information on the Primary Statistics, please see the documentation
+    in the `docs` folder.
 
 	Keyword arguments:
 	Const -- Representation of Constitution (Required)

@@ -8,11 +8,11 @@ The Super for all of the classes below.
 
 At the least, it should define:
 
-*Name
+* Name
 
 ## Player
 
-The player pawn in the game world. This will extend from Character.
+The player pawn in the game world. This will extend from Character. This is defined in `Player.gd` and in more detail (with direct reference methods) in `Player2.gd`.
 
 ## Enemy
 
