@@ -10,6 +10,11 @@ Do not expect this to be a one-size fit all solution. You will need to refactor 
 
 If a file still looks like a default gdscript file/has a lot of TODOs, its very likely that I wasn't able to resume development as in the project i'm implementing, I haven't yet gotten to the point where that component needs to be scripted out. I typically don't build out a new Class until I have a need in my project to do so, even if its planned out on paper, somewhere.
 
+## Viewing Math
+Unfortunately, GitHub has no native Markdown support for KaTeX. I am looking into a better way to access this, but you will need to view the code from within a compatible Markdown editor to view full equations. I apologize for the hiccup here, but its ridiculous to imagine I need to make images for all the equations I have written. Sadly, that's probably where this will end up.
+
+If you have any ideas on how to best address this, feel free to reach out.
+
 ## Contributions
 I'll definitely look at Pull Requests that come my way, but I can't guarantee an immediate review or even approval.
 
