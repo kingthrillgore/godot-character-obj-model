@@ -36,10 +36,10 @@ Measure of psionic ability power, and how often this can be used. Once this hits
 #### Attack Power (`attack_power.md`)
 TBD. This Derived Statistic increases per level.
 
-#### Defense Power
+#### Defense Power (`defense_power.md`)
 TBD. This Derived Statistic increases per level.
 
-#### Ability Power
+#### Ability Power (`ability_power.md`)
 TBD. This Derived Statistic increases per level.
 
 #### Agility
