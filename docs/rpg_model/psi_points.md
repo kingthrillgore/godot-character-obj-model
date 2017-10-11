@@ -46,7 +46,6 @@ When they progress to Level 2, they gain an AP increase with a random seed value
 
 ```katex
 $$ 48 = 23 + (5 * 5) $$
-
 ```
 
 This process continues up to Level 25, the max level.
