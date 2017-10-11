@@ -33,7 +33,7 @@ Measure of amount of damage the player can take. Once this hits 0, the player is
 #### Psi Points
 Measure of psionic ability power, and how often this can be used. Once this hits 0, the player will need to recover these. This Derived Statistic increases per level.
 
-#### Attack Power
+#### Attack Power (`attack_power.md`)
 TBD. This Derived Statistic increases per level.
 
 #### Defense Power
